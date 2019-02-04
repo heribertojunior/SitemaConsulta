@@ -1,0 +1,33 @@
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Debug/DAL.dll.config
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Debug/DAL.dll
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Debug/DAL.pdb
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Debug/BLL.dll
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Debug/MySql.Data.dll
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Debug/BLL.pdb
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Debug/DAL.csproj.CopyComplete
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Debug/DAL.dll
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Debug/DAL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Debug/DAL.dll.config
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Debug/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Debug/DAL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Debug/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Debug/MySql.Data.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Debug/BLL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Debug/DAL.csproj.CopyComplete
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Debug/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Debug/DAL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Debug/DAL.dll.config
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Debug/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Debug/DAL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Debug/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Debug/MySql.Data.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Debug/BLL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Debug/DAL.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Debug/DAL.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Debug/DAL.csproj.CopyComplete
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Debug/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Debug/DAL.pdb

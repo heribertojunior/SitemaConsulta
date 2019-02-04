@@ -1,0 +1,24 @@
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Release/DAL.dll.config
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Release/DAL.dll
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Release/BLL.dll
+/Users/aluno/Projects/SoluctionClinica/DAL/bin/Release/MySql.Data.dll
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Release/DAL.csprojAssemblyReference.cache
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Release/DAL.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Release/DAL.csproj.CopyComplete
+/Users/aluno/Projects/SoluctionClinica/DAL/obj/Release/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Release/DAL.dll.config
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Release/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Release/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/bin/Release/MySql.Data.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Release/DAL.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Release/DAL.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Release/DAL.csproj.CopyComplete
+/Users/aluno/Downloads/soluctionclinica-master 2/DAL/obj/Release/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Release/DAL.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Release/DAL.dll.config
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Release/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Release/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/bin/Release/MySql.Data.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Release/DAL.csproj.CopyComplete
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Release/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/DAL/obj/Release/DAL.csprojAssemblyReference.cache

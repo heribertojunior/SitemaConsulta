@@ -1,0 +1,10 @@
+/Users/aluno/Projects/SoluctionClinica/BLL/bin/Release/BLL.dll
+/Users/aluno/Projects/SoluctionClinica/BLL/obj/Release/BLL.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SoluctionClinica/BLL/obj/Release/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/BLL/bin/Release/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/BLL/obj/Release/BLL.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/BLL/obj/Release/BLL.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/BLL/obj/Release/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/BLL/bin/Release/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/BLL/obj/Release/BLL.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2 2/BLL/obj/Release/BLL.dll
