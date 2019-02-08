@@ -48,7 +48,7 @@ namespace DAL.Persistence
                     tipoExame.Id = Convert.ToInt32(dataReader["id"]);
                     tipoExame.Descricao = dataReader["descricao"].ToString();
 
-
+                    listaTipoExame.Add(tipoExame);
 
                 }
                 return listaTipoExame;

@@ -52,6 +52,63 @@ namespace DAL.Persistence
             }
         }
 
+
+        public Estado pesquisarEstado(int id)
+        {
+            try
+            {
+
+
+                var sql = "SELECT * FROM estado WHERE id = " + id ;
+                command = new MySqlCommand(sql, connection);
+                dataReader = command.ExecuteReader();
+
+                Estado estado = new Estado();
+
+                if (dataReader.Read())
+                {
+                    estado.Id = Convert.ToInt32(dataReader["id"]);
+                    estado.Nome = dataReader["nome"].ToString();
+                    estado.Sigla = dataReader["sigla"].ToString();
+
+                }
+                return estado;
+
+            }
+            catch (Exception erro)
+            {
+                throw new Exception("Erro ao registrar dado " + erro.Message + erro.ToString());
+            }
+            finally
+            {
+
+            }
+        }
+        public void Alterar(Estado estado)
+        {
+            try
+            {
+               
+                AbrirConexao();
+                var sql = "UPDATE  estado set nome= @nome,sigla= @sigla  WHERE id = " + estado.Id;
+                          
+
+                command = new MySqlCommand(sql, connection);
+                command.Parameters.AddWithValue("@nome", estado.Nome);
+                command.Parameters.AddWithValue("@sigla", estado.Sigla);
+                command.ExecuteNonQuery();
+            }
+            catch (Exception erro)
+            {
+                throw new Exception("Erro ao registrar dado " + erro.Message + erro.ToString());
+            }
+            finally
+            {
+                FecharConexao();
+            }
+        }
+
+
         public EstadoDal()
         {
         }

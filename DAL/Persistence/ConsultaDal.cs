@@ -51,6 +51,7 @@ namespace DAL.Persistence
                     consulta.IdPaciente = Convert.ToInt32(dataReader["idPaciente"]);
                     consulta.Obs = dataReader["obs"].ToString();
 
+                    listaConsulta.Add(consulta);
 
                 }
                 return listaConsulta;

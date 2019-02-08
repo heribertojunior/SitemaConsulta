@@ -46,6 +46,7 @@ namespace DAL.Persistence
                     Especialidade especialidade = new Especialidade();
                     especialidade.Id = Convert.ToInt32(dataReader["id"]);
                     especialidade.Descricao = dataReader["descricao"].ToString();
+                    especialidade.DtCadastro = dataReader["dtCadastro"].ToString();
 
                     listaEspecialidade.Add(especialidade);
 
@@ -64,6 +65,36 @@ namespace DAL.Persistence
 
         }
 
+        public Especialidade pesquisarEspecialidade(int id)
+        {
+            try
+            {
+                var sql = "SELECT * FROM especialidade WHERE id = " + id;
+                command = new MySqlCommand(sql, connection);
+                dataReader = command.ExecuteReader();
+
+                Especialidade especialidade = new Especialidade();
+
+                if (dataReader.Read())
+                {
+
+                    especialidade.Id = Convert.ToInt32(dataReader["id"]);
+                    especialidade.Descricao = dataReader["descricao"].ToString();
+
+
+                }
+                return especialidade;
+
+            }
+            catch (Exception erro)
+            {
+                throw new Exception("Erro ao registrar dado " + erro.Message + erro.ToString());
+            }
+            finally
+            {
+
+            }
+        }
         public EspecialidadeDal()
         {
         }
