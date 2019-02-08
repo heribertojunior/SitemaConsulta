@@ -1,0 +1,27 @@
+/Users/aluno/Projects/SoluctionClinica/View/bin/View.dll
+/Users/aluno/Projects/SoluctionClinica/View/bin/BLL.dll
+/Users/aluno/Projects/SoluctionClinica/View/bin/DAL.dll
+/Users/aluno/Projects/SoluctionClinica/View/bin/MySql.Data.dll
+/Users/aluno/Projects/SoluctionClinica/View/bin/DAL.dll.config
+/Users/aluno/Projects/SoluctionClinica/View/obj/Release/View.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/SoluctionClinica/View/obj/Release/View.csproj.CopyComplete
+/Users/aluno/Projects/SoluctionClinica/View/obj/Release/View.dll
+/Users/aluno/Projects/SoluctionClinica/View/obj/Release/View.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/View.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/MySql.Data.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/DAL.dll.config
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Release/View.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Release/View.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Release/View.csproj.CopyComplete
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Release/View.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/View.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/MySql.Data.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/DAL.dll.config
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Release/View.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Release/View.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Release/View.csproj.CopyComplete
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Release/View.dll

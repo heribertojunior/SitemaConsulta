@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B62F516F-1D7C-4B00-B2AF-0B3E82616E2A}</ProjectGuid>
+    <ProjectTypeGuids>{349C5851-65DF-11DA-9384-00065B846F21};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>View</RootNamespace>
+    <AssemblyName>View</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Core" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.config" />
+    <Content Include="Global.asax" />
+    <Content Include="Default.aspx" />
+    <Content Include="Scripts\jquery-1.9.1.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-1.9.1-vsdoc.js" />
+    <Content Include="packages.config" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Pages\EstadoCadastro.aspx" />
+    <Content Include="Pages\CidadeCadastro.aspx" />
+    <Content Include="Pages\EspecialidadeCadastro.aspx" />
+    <Content Include="Pages\MedicoCadastro.aspx" />
+    <Content Include="Pages\PacienteCadastro.aspx" />
+    <Content Include="Pages\ConsultaCadastro.aspx" />
+    <Content Include="Pages\TipoExameCadastro1.aspx" />
+    <Content Include="Pages\ExameCadastro.aspx" />
+    <Content Include="Pages\EstadoLista.aspx" />
+    <Content Include="Pages\EspecialidadeLista.aspx" />
+    <Content Include="Pages\EstadoPesquisa.aspx" />
+    <Content Include="Pages\EspecialidadePesquisa.aspx" />
+    <Content Include="Pages\CidadeLista.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EstadoCadastro.aspx.cs">
+      <DependentUpon>EstadoCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EstadoCadastro.aspx.designer.cs">
+      <DependentUpon>EstadoCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\CidadeCadastro.aspx.cs">
+      <DependentUpon>CidadeCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\CidadeCadastro.aspx.designer.cs">
+      <DependentUpon>CidadeCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EspecialidadeCadastro.aspx.cs">
+      <DependentUpon>EspecialidadeCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EspecialidadeCadastro.aspx.designer.cs">
+      <DependentUpon>EspecialidadeCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MedicoCadastro.aspx.cs">
+      <DependentUpon>MedicoCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MedicoCadastro.aspx.designer.cs">
+      <DependentUpon>MedicoCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PacienteCadastro.aspx.cs">
+      <DependentUpon>PacienteCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\PacienteCadastro.aspx.designer.cs">
+      <DependentUpon>PacienteCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ConsultaCadastro.aspx.cs">
+      <DependentUpon>ConsultaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ConsultaCadastro.aspx.designer.cs">
+      <DependentUpon>ConsultaCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TipoExameCadastro1.aspx.cs">
+      <DependentUpon>TipoExameCadastro1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\TipoExameCadastro1.aspx.designer.cs">
+      <DependentUpon>TipoExameCadastro1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ExameCadastro.aspx.cs">
+      <DependentUpon>ExameCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ExameCadastro.aspx.designer.cs">
+      <DependentUpon>ExameCadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EstadoLista.aspx.cs">
+      <DependentUpon>EstadoLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EstadoLista.aspx.designer.cs">
+      <DependentUpon>EstadoLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EspecialidadeLista.aspx.cs">
+      <DependentUpon>EspecialidadeLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EspecialidadeLista.aspx.designer.cs">
+      <DependentUpon>EspecialidadeLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EstadoPesquisa.aspx.cs">
+      <DependentUpon>EstadoPesquisa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EstadoPesquisa.aspx.designer.cs">
+      <DependentUpon>EstadoPesquisa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EspecialidadePesquisa.aspx.cs">
+      <DependentUpon>EspecialidadePesquisa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\EspecialidadePesquisa.aspx.designer.cs">
+      <DependentUpon>EspecialidadePesquisa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\CidadeLista.aspx.cs">
+      <DependentUpon>CidadeLista.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\CidadeLista.aspx.designer.cs">
+      <DependentUpon>CidadeLista.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\jquery-1.9.1.min.map" />
+    <None Include="fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Content\bootstrap.min.css.map" />
+    <None Include="Content\bootstrap.css.map" />
+    <None Include="Content\bootstrap-theme.min.css.map" />
+    <None Include="Content\bootstrap-theme.css.map" />
+    <None Include="menu.inc" />
+    <None Include="content.inc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Pages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{61EF3082-22C5-45D8-9E29-B75ACC86B52A}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{28A474CA-37CB-4579-AB69-CB7099E1058B}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <MonoDevelop>
+      <Properties>
+        <XspParameters Port="8080" Address="127.0.0.1" SslMode="None" SslProtocol="Default" KeyType="None" CertFile="" KeyFile="" PasswordOptions="None" Password="" Verbose="True" />
+      </Properties>
+    </MonoDevelop>
+  </ProjectExtensions>
+</Project>

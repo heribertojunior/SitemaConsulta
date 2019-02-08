@@ -1,0 +1,26 @@
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/View.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/View.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/MySql.Data.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/BLL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/DAL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2/View/bin/DAL.dll.config
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Debug/View.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Debug/View.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Debug/View.csproj.CopyComplete
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Debug/View.dll
+/Users/aluno/Downloads/soluctionclinica-master 2/View/obj/Debug/View.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/View.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/View.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/BLL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/DAL.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/MySql.Data.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/BLL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/DAL.pdb
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/bin/DAL.dll.config
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Debug/View.csprojAssemblyReference.cache
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Debug/View.csproj.CoreCompileInputs.cache
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Debug/View.csproj.CopyComplete
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Debug/View.dll
+/Users/aluno/Downloads/soluctionclinica-master 2 2/View/obj/Debug/View.pdb
